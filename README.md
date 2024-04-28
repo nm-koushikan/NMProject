@@ -1,2 +1,2 @@
-# cinematicketing.py
+# cinematicketbooking.py
 Cinema ticket booking code using python and SQL
